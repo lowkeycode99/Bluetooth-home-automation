@@ -35,3 +35,4 @@ The entire system was simulated on **Wokwi**, a powerful web-based simulator for
 - LEDs are used to represent different appliances for easy visualization.
 
 # Output
+![Image](https://github.com/user-attachments/assets/1fd2b097-8ca3-42c5-ac44-3dff97e54d80)
